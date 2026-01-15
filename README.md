@@ -1,6 +1,6 @@
 ## 🍀I'm Yoori 🐰
 
-![우사기_움짤](https://github.com/user-attachments/assets/31545807-c0ff-447d-97b0-22fd5b3df39f)
+![우사기](https://github.com/user-attachments/assets/31545807-c0ff-447d-97b0-22fd5b3df39f)
 
 ## ☁️ Tech Stack
 <div align= "left">
