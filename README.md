@@ -1,7 +1,6 @@
 ## 🍀I'm Yoori 🐰
 
-![우사기](https://velog.velcdn.com/images/yoorrll/post/c8b7f9ae-77fb-40cf-8f1e-21ec71b8decc/image.gif)
-<br />
+![우사기_움짤](https://github.com/user-attachments/assets/31545807-c0ff-447d-97b0-22fd5b3df39f)
 
 ## ☁️ Tech Stack
 <div align= "left">
