@@ -1,4 +1,4 @@
-## 🍀I'm Yoori 🐰
+## 🍀Hi, I'm Yooree
 
 ![우사기](https://github.com/user-attachments/assets/31545807-c0ff-447d-97b0-22fd5b3df39f)
 
@@ -12,7 +12,6 @@
         <br />
         <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
-        <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white">
         <br />
         <img src="https://img.shields.io/badge/TailwindCSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=white">
         <br />
@@ -30,7 +29,6 @@
         <a href="https://discord.com/users/yoorrll">
           <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white">
         </a>
-        <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
         <a href="mailto:lyl000122@gmail.com">
           <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
         </a>
